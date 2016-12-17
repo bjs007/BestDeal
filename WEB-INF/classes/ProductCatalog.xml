@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+ <product id="001" retailer="BestDeal">
+	<name>dell</name>
+    <image>dell.jpg</image>
+    <shortDescription>Inspiron</shortDescription>
+    <price>399</price>
+    <accessories>
+            <accessory>Laptopn Bag</accessory>
+            <accessory>Boss HeadSet</accessory>
+    </accessories>
+    </product>
+    <product id="002" retailer="BestDeal">
+	<name>lenovo</name>
+        <image>lenovo.jpg</image>
+        <shortDescription>Lenovo - Ideapad 100S 11.6" Laptop</shortDescription>
+        <price>299</price>
+        <accessories>
+            <accessory>Optical Mouse</accessory>
+            <accessory>Hard Disk</accessory>
+        </accessories>
+        </product>
+    <product id="003" retailer="BestDeal">
+	<name>hp</name>
+        <image>hp.jpg</image>
+        <shortDescription>HP - 15.6" Laptop </shortDescription>
+        
+        <price>399</price>
+        <accessories>
+            <accessory>Optical Mouse</accessory>
+            <accessory>Boss HeadSet</accessory>
+        </accessories>
+    </product>
+<product id="004" retailer="BestDeal">
+	<name>samsung</name>
+        <image>samsung.jpg</image>
+        <shortDescription>Samsung- Pavilion x360 </shortDescription>
+        <price>399</price>
+        <accessories>
+            <accessory>Optical Mouse</accessory>
+            <accessory>Boss HeadSet</accessory>
+        </accessories>
+    </product>
+<product id="005" retailer="BestDeal">
+	<name>asus</name>
+        <image>asus.png</image>
+		        <shortDescription>Asus - Pavilion </shortDescription>
+        <price>399</price>
+        <accessories>
+            <accessory>Optical Mouse</accessory>
+            <accessory>Boss HeadSet</accessory>
+        </accessories>
+    </product>
+</ProductCatalog>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+ <product id="006" retailer="BestDeal">
+	<name>asus</name>
+    <image>asus.jpg</image>
+    <shortDescription>Asus - VivoBook </shortDescription>
+    <price>399</price>
+    <accessories>
+            <accessory>HeadPhone</accessory>
+            <accessory>Battery</accessory>
+    </accessories>
+    </product>
+    <product id="007" retailer="BestDeal">
+	<name>iphone</name>
+        <image>iphone.jpg</image>
+        <shortDescription>iphone - 6S 100S </shortDescription>
+        <price>299</price>
+        <accessories>
+            <accessory>HeadPhone</accessory>
+            <accessory>Battery</accessory>
+        </accessories>
+        </product>
+    <product id="008" retailer="BestDeal">
+	<name>microsoft</name>
+        <image>microsoft.jpg</image>
+        <shortDescription>microsoft - Intel</shortDescription>
+
+        <price>399</price>
+        <accessories>
+            <accessory>HeadPhone</accessory>
+            <accessory>Boss HeadSet</accessory>
+        </accessories>
+    </product>
+<product id="009" retailer="BestDeal">
+	<name>samsung</name>
+        <image>samsung.png</image>
+        <shortDescription>Samsung- Pavilion </shortDescription>
+        <price>399</price>
+        <accessories>
+            <accessory>Optical Mouse</accessory>
+            <accessory>Boss HeadSet</accessory>
+        </accessories>
+    </product>
+<product id="010" retailer="BestDeal">
+	<name>nokia</name>
+        <image>nokia.jpg</image>
+		        <shortDescription>Nokia -Touch-Screen </shortDescription>
+        <price>399</price>
+        <accessories>
+            <accessory>Optical Mouse</accessory>
+            <accessory>Boss HeadSet</accessory>
+        </accessories>
+    </product>
+</ProductCatalog>

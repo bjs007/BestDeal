@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+ <product id="016" retailer="BestDeal">
+	<name>lg</name>
+    <image>lg.png</image>
+    <shortDescription>LG- roomtheatre X540SA</shortDescription>
+    <price>399</price>
+    <accessories>
+            <accessory>VGI Cable</accessory>
+            <accessory>Remote</accessory>
+    </accessories>
+    </product>
+    <product id="017" retailer="BestDeal">
+	<name>onida</name>
+        <image>onida.png</image>
+        <shortDescription>Insignia</shortDescription>
+        <price>299</price>
+        <accessories>
+            <accessory>Speaker</accessory>
+            <accessory>cable</accessory>
+        </accessories>
+        </product>
+    <product id="018" retailer="BestDeal">
+	<name>philips</name>
+        <image>philips.png</image>
+        <shortDescription>Philips HDTV</shortDescription>
+
+        <price>399</price>
+        <accessories>
+            <accessory>Speaker</accessory>
+            <accessory> Home theatre</accessory>
+        </accessories>
+    </product>
+<product id="019" retailer="BestDeal">
+	<name>samsung</name>
+        <image>samsung.png</image>
+        <shortDescription>Samsung- Pavilion x360</shortDescription>
+        <price>399</price>
+        <accessories>
+            <accessory>Optical Mouse</accessory>
+            <accessory>Boss HeadSet</accessory>
+        </accessories>
+    </product>
+<product id="020" retailer="BestDeal">
+	<name>sony</name>
+        <image>sony.png</image>
+		        <shortDescription>Sony </shortDescription>
+        <price>399</price>
+        <accessories>
+            <accessory>Remote</accessory>
+            <accessory>DTH</accessory>
+        </accessories>
+    </product>
+</ProductCatalog>
